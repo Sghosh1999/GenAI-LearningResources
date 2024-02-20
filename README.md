@@ -1,0 +1,2 @@
+![Chainlit App Screen](https://github.com/Sghosh1999/GenAI-LearningResources/blob/6020877fb6044def2ba307edea59fe2450859df6/PdfMinerv1.0/app_screen.png)
+- This is a Chainlit Chat Application built using OpenAI Embeddings, and OpenAI API. 
